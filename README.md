@@ -7,7 +7,11 @@ This is a forum bot for getting your topics in the recent discussions, it will b
 
 ### Installation
 
-You should have python 3 and pip installed. Then you need to create the virtual enviroment and run it:
+Requirements:
+
+- **Python 3.6+**
+
+Then you need to create the virtual enviroment and run it:
 (If you are using windows just google how to run a python virtual enviroment)
 ```sh
 $ python -m venv venv
